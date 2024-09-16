@@ -3,8 +3,10 @@
 First, clone the repository to your local machine:
 git clone https://github.com/username/repository-name.git
 cd repository-name
-2. Set Up the Environment
+
+3. Set Up the Environment
    Using npm: npm install
-   Using yarn: yarn instalL
- 3. Run the Code
+   Using yarn: yarn install
+   
+ 5. Run the Code
     Node.js Application: node filename.js
